@@ -1,5 +1,5 @@
 # Digital-Music-Store-Database
-  In the Project: Query a Digital Music Store Database, we will extract some table by sql queries from Music Store Database to analysis it to answer some questions
+  In the Project: Query a Digital Music Store Database, we will extract some tables by sql queries from Music Store Database to analyze it to answer some questions
 
 ### 1- which question that we want to answer
       2.1 We decided to make a festival in Germany then Which genre of song is popular in German
